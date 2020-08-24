@@ -1,2 +1,2 @@
 # hello-world
-The output of this programm should be "Hello World"
+Hi i'm 18 years old and just started with GitHub 
